@@ -1,5 +1,7 @@
 import pymssql
 
+# py -m pip install pymssql
+
 # PATTERN = "Silver"
 PATTERN = input("Введите буквы и нажмите ENTER: ")
 
@@ -32,3 +34,9 @@ for product in results:
     code = product[2]
     price = product[3]
     print(f"{id:5}\t{name:35}\t{code:10}\t{price}")
+
+
+
+
+# Написать код, который сформирует файл data\expensive.csv, 
+# куда попадут товары ценой более 1000. Формат файла - решите сами

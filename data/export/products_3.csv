@@ -1,0 +1,137 @@
+id,name,code,price
+1,Adjustable Race,AR-5381,0.0000
+2,Bearing Ball,BA-8327,0.0000
+3,BB Ball Bearing,BE-2349,0.0000
+4,Headset Ball Bearings,BE-2908,0.0000
+316,Blade,BL-2036,0.0000
+320,Chainring Bolts,CB-2903,0.0000
+327,Down Tube,DT-2377,0.0000
+398,Handlebar Tube,HT-2981,0.0000
+399,Head Tube,HT-8019,0.0000
+400,LL Hub,HU-6280,0.0000
+401,HL Hub,HU-8998,0.0000
+477,Metal Bar 1,MB-2024,0.0000
+478,Metal Bar 2,MB-6061,0.0000
+492,Paint - Black,PA-187B,0.0000
+495,Paint - Blue,PA-632U,0.0000
+497,Pinch Bolt,PB-6109,0.0000
+514,LL Mountain Seat Assembly,SA-M198,158.8100
+515,ML Mountain Seat Assembly,SA-M237,175.2500
+516,HL Mountain Seat Assembly,SA-M687,234.5400
+517,LL Road Seat Assembly,SA-R127,158.8100
+518,ML Road Seat Assembly,SA-R430,175.2500
+519,HL Road Seat Assembly,SA-R522,234.5400
+520,LL Touring Seat Assembly,SA-T467,158.8100
+521,ML Touring Seat Assembly,SA-T612,175.2500
+522,HL Touring Seat Assembly,SA-T872,234.5400
+533,Seat Tube,ST-9828,0.0000
+534,Top Tube,TO-2301,0.0000
+680,HL Road Frame - Black, 58,FR-R92B-58,1704.9400
+708,Sport-100 Helmet, Black,HL-U509,41.6800
+709,Mountain Bike Socks, M,SO-B909-M,11.3100
+710,Mountain Bike Socks, L,SO-B909-L,11.3100
+711,Sport-100 Helmet, Blue,HL-U509-B,41.6800
+722,LL Road Frame - Black, 58,FR-R38B-58,401.6300
+723,LL Road Frame - Black, 60,FR-R38B-60,401.6300
+724,LL Road Frame - Black, 62,FR-R38B-62,401.6300
+736,LL Road Frame - Black, 44,FR-R38B-44,401.6300
+737,LL Road Frame - Black, 48,FR-R38B-48,401.6300
+738,LL Road Frame - Black, 52,FR-R38B-52,401.6300
+743,HL Mountain Frame - Black, 42,FR-M94B-42,1607.3900
+744,HL Mountain Frame - Black, 44,FR-M94B-44,1607.3900
+745,HL Mountain Frame - Black, 48,FR-M94B-48,1607.3900
+746,HL Mountain Frame - Black, 46,FR-M94B-46,1607.3900
+747,HL Mountain Frame - Black, 38,FR-M94B-38,1607.3900
+765,Road-650 Black, 58,BK-R50B-58,932.5600
+766,Road-650 Black, 60,BK-R50B-60,932.5600
+767,Road-650 Black, 62,BK-R50B-62,932.5600
+768,Road-650 Black, 44,BK-R50B-44,932.5600
+769,Road-650 Black, 48,BK-R50B-48,932.5600
+770,Road-650 Black, 52,BK-R50B-52,932.5600
+775,Mountain-100 Black, 38,BK-M82B-38,4019.6700
+776,Mountain-100 Black, 42,BK-M82B-42,4019.6700
+777,Mountain-100 Black, 44,BK-M82B-44,4019.6700
+778,Mountain-100 Black, 48,BK-M82B-48,4019.6700
+782,Mountain-200 Black, 38,BK-M68B-38,2733.3700
+783,Mountain-200 Black, 42,BK-M68B-42,2733.3700
+784,Mountain-200 Black, 46,BK-M68B-46,2733.3700
+785,Mountain-300 Black, 38,BK-M47B-38,1286.2900
+786,Mountain-300 Black, 40,BK-M47B-40,1286.2900
+787,Mountain-300 Black, 44,BK-M47B-44,1286.2900
+788,Mountain-300 Black, 48,BK-M47B-48,1286.2900
+793,Road-250 Black, 44,BK-R89B-44,2910.0700
+794,Road-250 Black, 48,BK-R89B-48,2910.0700
+795,Road-250 Black, 52,BK-R89B-52,2910.0700
+796,Road-250 Black, 58,BK-R89B-58,2910.0700
+808,LL Mountain Handlebars,HB-M243,53.0400
+809,ML Mountain Handlebars,HB-M763,73.7500
+810,HL Mountain Handlebars,HB-M918,143.2500
+811,LL Road Handlebars,HB-R504,53.0400
+812,ML Road Handlebars,HB-R720,73.7500
+813,HL Road Handlebars,HB-R956,143.2500
+814,ML Mountain Frame - Black, 38,FR-M63B-38,415.3800
+830,ML Mountain Frame - Black, 40,FR-M63B-40,415.3800
+831,ML Mountain Frame - Black, 44,FR-M63B-44,415.3800
+832,ML Mountain Frame - Black, 48,FR-M63B-48,415.3800
+837,HL Road Frame - Black, 62,FR-R92B-62,1704.9400
+838,HL Road Frame - Black, 44,FR-R92B-44,1704.9400
+839,HL Road Frame - Black, 48,FR-R92B-48,1704.9400
+840,HL Road Frame - Black, 52,FR-R92B-52,1704.9400
+843,Cable Lock,LO-C100,29.7800
+846,Taillights - Battery-Powered,LT-T990,16.6600
+847,Headlights - Dual-Beam,LT-H902,41.6800
+855,Men's Bib-Shorts, S,SB-M891-S,107.1800
+856,Men's Bib-Shorts, M,SB-M891-M,107.1800
+857,Men's Bib-Shorts, L,SB-M891-L,107.1800
+870,Water Bottle - 30 oz.,WB-H098,5.9500
+871,Mountain Bottle Cage,BC-M005,11.9000
+872,Road Bottle Cage,BC-R205,10.7100
+876,Hitch Rack - 4-Bike,RA-H123,142.9200
+877,Bike Wash - Dissolver,CL-9009,9.4800
+879,All-Purpose Bike Stand,ST-1401,189.3700
+890,HL Touring Frame - Blue, 46,FR-T98U-46,1195.6700
+891,HL Touring Frame - Blue, 50,FR-T98U-50,1195.6700
+892,HL Touring Frame - Blue, 54,FR-T98U-54,1195.6700
+893,HL Touring Frame - Blue, 60,FR-T98U-60,1195.6700
+895,LL Touring Frame - Blue, 50,FR-T67U-50,397.1200
+896,LL Touring Frame - Blue, 54,FR-T67U-54,397.1200
+897,LL Touring Frame - Blue, 58,FR-T67U-58,397.1200
+898,LL Touring Frame - Blue, 62,FR-T67U-62,397.1200
+903,LL Touring Frame - Blue, 44,FR-T67U-44,397.1200
+907,Rear Brakes,RB-9231,126.8400
+921,Mountain Tire Tube,TT-M928,5.9500
+922,Road Tire Tube,TT-R982,4.7500
+923,Touring Tire Tube,TT-T092,5.9500
+924,LL Mountain Frame - Black, 42,FR-M21B-42,297.5100
+925,LL Mountain Frame - Black, 44,FR-M21B-44,297.5100
+926,LL Mountain Frame - Black, 48,FR-M21B-48,297.5100
+927,LL Mountain Frame - Black, 52,FR-M21B-52,297.5100
+943,LL Mountain Frame - Black, 40,FR-M21B-40,297.5100
+946,LL Touring Handlebars,HB-T721,54.9000
+947,HL Touring Handlebars,HB-T928,109.0500
+948,Front Brakes,FB-9873,126.8400
+953,Touring-2000 Blue, 60,BK-T44U-60,1446.9000
+958,Touring-3000 Blue, 54,BK-T18U-54,884.1500
+959,Touring-3000 Blue, 58,BK-T18U-58,884.1500
+960,Touring-3000 Blue, 62,BK-T18U-62,884.1500
+966,Touring-1000 Blue, 46,BK-T79U-46,2839.4600
+967,Touring-1000 Blue, 50,BK-T79U-50,2839.4600
+968,Touring-1000 Blue, 54,BK-T79U-54,2839.4600
+969,Touring-1000 Blue, 60,BK-T79U-60,2839.4600
+970,Touring-2000 Blue, 46,BK-T44U-46,1446.9000
+971,Touring-2000 Blue, 50,BK-T44U-50,1446.9000
+972,Touring-2000 Blue, 54,BK-T44U-54,1446.9000
+977,Road-750 Black, 58,BK-R19B-58,643.1300
+978,Touring-3000 Blue, 44,BK-T18U-44,884.1500
+979,Touring-3000 Blue, 50,BK-T18U-50,884.1500
+989,Mountain-500 Black, 40,BK-M18B-40,643.1300
+990,Mountain-500 Black, 42,BK-M18B-42,643.1300
+991,Mountain-500 Black, 44,BK-M18B-44,643.1300
+992,Mountain-500 Black, 48,BK-M18B-48,643.1300
+993,Mountain-500 Black, 52,BK-M18B-52,643.1300
+994,LL Bottom Bracket,BB-7421,64.3000
+995,ML Bottom Bracket,BB-8107,120.5800
+996,HL Bottom Bracket,BB-9108,144.7000
+997,Road-750 Black, 44,BK-R19B-44,643.1300
+998,Road-750 Black, 48,BK-R19B-48,643.1300
+999,Road-750 Black, 52,BK-R19B-52,643.1300
